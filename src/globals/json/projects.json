@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "projects": [
+      "ghx"
+    ],
+    "reviews": [
+      {
+        "email": "exadel@exadel.com",
+        "star": "10",
+        "message": "the best"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "projects": [
+      ""
+    ],
+    "reviews": [
+      {
+        "email": "epam@gmail.com",
+        "star": "",
+        "message": "..."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "projects": [
+      "mobile application"
+    ],
+    "reviews": [
+      {
+        "email": "anderson@gmail.com",
+        "star": "7",
+        "message": "..."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "projects": [
+      "VR",
+      "mobile application"
+    ],
+    "reviews": [
+      {
+        "email": "innovationGroup@gmail.com",
+        "star": "8",
+        "message": "interesting"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "projects": [
+      ""
+    ],
+    "reviews": [
+      {
+        "email": "mainSoft@gmail.com",
+        "star": "",
+        "message": "..."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "projects": [
+      ""
+    ],
+    "reviews": [
+      {
+        "email": "coins@gmail.com",
+        "star": "",
+        "message": "..."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "projects": [
+      ""
+    ],
+    "reviews": [
+      {
+        "email": "samSolutions@gmail.com",
+        "star": "",
+        "message": "..."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "projects": [
+      ""
+    ],
+    "reviews": [
+      {
+        "email": "belvest@gmail.com",
+        "star": "",
+        "message": "..."
+      }
+    ]
+  }
+]

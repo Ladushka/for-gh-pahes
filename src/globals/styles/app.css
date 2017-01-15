@@ -1,0 +1,26 @@
+/* app css stylesheet */
+
+.title {
+    font-size: 30px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.progress {
+    border: 0;
+    height: 18px;
+    border-radius: 9px;
+}
+
+.component {
+    align-content: center;
+    width: 10%;
+}
+
+.curs {
+    cursor: pointer;
+}
+
+.buttons{
+    margin-left: 3%;
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "company": {
+      "id": 1,
+      "name": "Exadel"
+    },
+    "address": {
+      "street": "Lenin Square",
+      "city": "Vitebsk",
+      "country": "Belarus"
+    }
+  },
+  {
+    "company": {
+      "id": 2,
+      "name": "Epam"
+    },
+    "address": {
+      "street": "Prospect of builders",
+      "city": "Vitebsk",
+      "country": "Belarus"
+    }
+  },
+  {
+    "company": {
+      "id": 3,
+      "name": "Anderson"
+    },
+    "address": {
+      "street": "Prospect of builders",
+      "city": "Vitebsk",
+      "country": "Belarus"
+    }
+  },
+  {
+    "company": {
+      "id": 4,
+      "name": "InnovationGroup"
+    },
+    "address": {
+      "street": "Prospect of builders",
+      "city": "Vitebsk",
+      "country": "Belarus"
+    }
+  },
+  {
+    "company": {
+      "id": 5,
+      "name": "MainSoft"
+    },
+    "address": {
+      "street": "Lenin Square",
+      "city": "Vitebsk",
+      "country": "Belarus"
+    }
+  },
+  {
+    "company": {
+      "id": 6,
+      "name": "Coins"
+    },
+    "address": {
+      "street": "",
+      "city": "Vitebsk",
+      "country": "Belarus"
+    }
+  },
+  {
+    "company": {
+      "id": 7,
+      "name": "SamSolutions"
+    },
+    "address": {
+      "street": "",
+      "city": "Vitebsk",
+      "country": "Belarus"
+    }
+  },
+  {
+    "company": {
+      "id": 8,
+      "name": "Belvest"
+    },
+    "address": {
+      "street": "",
+      "city": "Vitebsk",
+      "country": "Belarus"
+    }
+  }
+]
